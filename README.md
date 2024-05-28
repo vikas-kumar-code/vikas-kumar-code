@@ -1,16 +1,107 @@
-## Hi there 👋
+# Vikas kumar
 
-<!--
-**vikas-kumar-code/vikas-kumar-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a passionate IT professional with experience in NextJs, ReactJs, Angular, PHP, Yii2, Laravel and CodeIgniter. Below you'll find a summary of my skills, projects, and experience. Feel free to explore and connect with me!
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📄 About Me
+
+I am an IT professional with a strong background in web development. My goal is to leverage my skills to create efficient and innovative solutions. I thrive in dynamic environments and am always eager to learn new technologies.
+
+---
+
+## 🔧 Skills
+
+- **Programming Languages:** PHP, Javascript, HTML
+- **Frameworks and Libraries:** NextJs, ReactJs, Yii2, Laravel, CodeIgniter
+- **Databases:** MySQL, PostgreSQL
+- **Tools and Platforms:** Git
+- **Operating Systems:** Linux, Windows, macOS
+
+---
+
+## 🚀 Projects
+
+### ReturnMe
+**Description:** This application provides a straightforward, confidential, and secure method for recovering your lost items from anywhere across the globe.
+
+**Technologies Used:**
+- PHP
+- Yii2
+- JQuery
+- HTML
+- Bootstrap
+
+**URL:** https://return.me
+
+### TipHub
+**Description:** It is a fundraising platform where user creates their event and visitors donates for them.
+
+**Technologies Used:**
+- PHP
+- Yii2
+- ReactJs
+- HTML
+- Bootstrap 5
+- PayPal
+
+**URL:** https://tiphub.co
+
+### iMagDent
+**Description:** ImagDent.com is a cutting-edge platform dedicated to revolutionizing the field of dental imaging. By leveraging advanced technology, ImagDent.com offers dental professionals a comprehensive suite of tools designed to enhance diagnostic accuracy and improve patient outcomes. The platform provides high-quality imaging solutions, including 3D scans and digital X-rays, which are accessible through a user-friendly interface. This application helps admin to create cases, add patients, schedule appointments and generate several reports.
+
+**Technologies Used:**
+- PHP
+- Yii2
+- ReactJs
+- HTML
+- Bootstrap 5
+
+**URL:** https://imagdent.com
+
+
+---
+
+## 💼 Experience
+
+### Software Architect
+**Company:** Mitiz Technologies
+
+**Duration:** Currently working
+
+**Responsibilities:**
+- Leading the development of application.
+- Creating wireframes and prototype as needed based on requirements and revising those based on feedback
+- Contribute positively to the overall team dynamic; participate in stand-up meetings, planning and design sessions and other business-development working
+
+### Software Architect
+**Company:** SynapseIndia Pvt Ltd
+
+**Duration:** Jan 2012 - April 2016
+
+### Senior Software Engineer
+**Company:** Xicom Technologies
+
+**Duration:** Nov 2009 - Dec 2011
+
+---
+
+## 🎓 Graduation
+
+- **Degree:** Bachelor of Computer Application
+- **Institution:** Indira Gandhi National Open University
+- **Year:** 2006
+
+## 🎓 Diploma
+
+- **Degree:** DNIIT
+- **Institution:** National Institute Of Information Technology
+- **Year:** 2002
+
+---
+
+## 📫 Contact Me
+
+- **Email:** email2vkumarr@gmail.com
+- **LinkedIn:** https://www.linkedin.com/in/vikas1981/
+- **Upwork:** https://www.upwork.com/freelancers/nextjsdevelopervikas
