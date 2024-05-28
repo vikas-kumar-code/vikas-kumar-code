@@ -102,6 +102,6 @@ I am an IT professional with a strong background in web development. My goal is 
 
 ## 📫 Contact Me
 
-- **Email:** email2vkumarr@gmail.com
+- **Email:** vikaskzone@gmail.com
 - **LinkedIn:** https://www.linkedin.com/in/vikas1981/
 - **Upwork:** https://www.upwork.com/freelancers/nextjsdevelopervikas
