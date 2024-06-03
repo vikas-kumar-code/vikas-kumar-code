@@ -22,17 +22,18 @@ I am an IT professional with a strong background in web development. My goal is 
 
 ## 🚀 Projects
 
-### ReturnMe
-**Description:** This application provides a straightforward, confidential, and secure method for recovering your lost items from anywhere across the globe.
+### Equity Corps Of Oregon
+**Description:** The Ecoportal application assists a legal firm in managing their cases efficiently. The admin of the legal firm creates cases and assigns them to their associated attorneys. Each attorney processes their assigned cases and sends invoices to the firm. While the admin can onboard multiple attorneys, these attorneys are invited to and restricted to specific cases. They cannot access any other cases available in the system..
 
 **Technologies Used:**
-- PHP
-- Yii2
-- JQuery
+- NextJs
+- Prisma
+- MySql
 - HTML
 - Bootstrap
 
 **URL:** https://return.me
+
 
 ### TipHub
 **Description:** It is a fundraising platform where user creates their event and visitors donates for them.
@@ -41,6 +42,7 @@ I am an IT professional with a strong background in web development. My goal is 
 - PHP
 - Yii2
 - ReactJs
+- MySql
 - HTML
 - Bootstrap 5
 - PayPal
@@ -54,12 +56,24 @@ I am an IT professional with a strong background in web development. My goal is 
 - PHP
 - Yii2
 - ReactJs
+- MySql
 - HTML
 - Bootstrap 5
 
 **URL:** https://imagdent.com
 
+### ReturnMe
+**Description:** This application provides a straightforward, confidential, and secure method for recovering your lost items from anywhere across the globe.
 
+**Technologies Used:**
+- PHP
+- Yii2
+- MySql
+- JQuery
+- HTML
+- Bootstrap
+
+**URL:** https://return.me
 ---
 
 ## 💼 Experience
